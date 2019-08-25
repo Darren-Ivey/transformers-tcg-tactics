@@ -2,10 +2,11 @@
 templateKey: character
 name: Optimus Prime
 title: Freedom Fighter
-faction: Autobot
+faction: Common
 alt-mode-text: Bold 2
 bot-mode-text: When you flip to this mode repair 1 damage from each of your Autobots.
-image: /img/f8300078.png
+bot-image: /img/28e6d1ce.png
+alt-image: /img/f8300078.png
 bot-attack-value: 5
 alt-attack: 6
 bot-defence: 2
